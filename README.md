@@ -16,6 +16,7 @@ Documenting my own progress in learning data engineering skills
   
     - About to start "AWS Cloud Practitioner Essentials" course
     - (TODO) AWS Cloud Practitioner CLF-C01
+    - (TODO) Learn snowflake https://learn.snowflake.com/tracks
 
 
 ## DevOps skills
